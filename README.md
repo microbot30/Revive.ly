@@ -33,7 +33,7 @@ IMPORTANT LINKS:-
 	- https://www.youtube.com/watch?v=FCyoHclCqc8
 	- https://www.youtube.com/watch?v=2Vf1D-rUMwE&list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX
 
-PRE-REQUEST BEFORE WE BEGIN:-
+PRE-REQUISITES BEFORE WE BEGIN:-
 
 	- install the following applications
 		- teamviewer
